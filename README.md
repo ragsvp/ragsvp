@@ -39,8 +39,8 @@
 
 ## Education
 
-- 🎓 **M.Sc., Computer Science**  | *Jun 2012 - Apr 2014*
-- 🎓 **B.Sc., Computer Science**  | *Jun 2009 - Apr 2012*
+-  🎓 **M.Sc., Computer Science**  | *Jun 2012 - Apr 2014*
+-  🎓 **B.Sc., Computer Science**  | *Jun 2009 - Apr 2012*
 
 ## Connect with Me
 
