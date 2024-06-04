@@ -1,8 +1,6 @@
-# Welcome to My Personal GitHub 
+#👋 Greetings to all! Myself Poovaragavan Velumani 🌟 
 
-👋 Greetings to all!
-
-👨‍💼 I'm Poovaragavan Velumani (He/Him) 🌟
+👋 Welcome to My Personal GitHub 
 
 📜 Certified Cloud Architect ☁️ and DevOps Engineer 🚀 professional
 
