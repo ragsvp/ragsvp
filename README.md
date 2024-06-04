@@ -14,7 +14,7 @@
 ## Professional Summary
 
 - *I specialize in multi-cloud environments, DevOps practices, and crafting comprehensive cloud solutions across Microsoft Azure and Google Cloud.* 
-- *With over 5 years of experience, I lead DevOps implementations and oversee the design, deployment, and maintenance of cloud services.*
+- *With over 5 years of experience, I lead DevOps and Cloud IaaS, PaaS, SaaS implementations and oversee the design, deployment, and maintenance of cloud services.*
 
 ## Top Skill-Set
 
@@ -26,7 +26,7 @@
 
 ## Experience
 
-- **🚀 Senior Cloud Administrator** *(Nov'23 - Present | Bengaluru)*
+- 🚀 **Senior Cloud Administrator** *(Nov'23 - Present | Bengaluru)*
 - 🌟 **Senior Cloud Engineer** *(Jun'18 - Jul'23 | Bengaluru)*
 - 🎓 **Technical Trainer & Select Pearson VUE Administrator** *(Nov'14 - Mar'17 | Coimbatore)*  
 
@@ -39,8 +39,8 @@
 
 ## Education
 
-- **M.Sc., Computer Science** 🎓 | *Jun 2012 - Apr 2014*
-- **B.Sc., Computer Science** 🎓 | *Jun 2009 - Apr 2012*
+- 🎓 **M.Sc., Computer Science**  | *Jun 2012 - Apr 2014*
+- 🎓 **B.Sc., Computer Science**  | *Jun 2009 - Apr 2012*
 
 ## Connect with Me
 
