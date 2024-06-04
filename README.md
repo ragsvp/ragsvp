@@ -1,8 +1,11 @@
 # Welcome to My Personal GitHub 
 
 👋 Greetings to all!
+
 👨‍💼 I'm Poovaragavan Velumani (He/Him) 🌟
+
 📜 Certified Cloud Architect ☁️ and DevOps Engineer 🚀 professional
+
 🎯 Specializing in Azure and GCP.
 
 ### Contact Information
