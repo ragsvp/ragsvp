@@ -1,12 +1,9 @@
 # Welcome to My Personal GitHub 
 
-👋 Greetings to all! 
-
-👨‍💼 I'm Poovaragavan Velumani (He/Him) 🌟
-
-📜 Certified as a professional Cloud Architect ☁️ and DevOps Engineer 🚀
-
-🎯 Specializing in Azure and GCP.
+*👋 Greetings to all!*
+*👨‍💼 I'm Poovaragavan Velumani (He/Him) 🌟*
+*📜 Certified Cloud Architect ☁️ and DevOps Engineer 🚀 professional*
+*🎯 Specializing in Azure and GCP.*
 
 ### Contact Information
 
@@ -15,8 +12,8 @@
 
 ## Professional Summary
 
-- I specialize in multi-cloud environments, DevOps practices, and crafting comprehensive cloud solutions across Microsoft Azure and Google Cloud. 
-- With over 5 years of experience, I lead DevOps implementations and oversee the design, deployment, and maintenance of cloud services.
+- *I specialize in multi-cloud environments, DevOps practices, and crafting comprehensive cloud solutions across Microsoft Azure and Google Cloud.* 
+- *With over 5 years of experience, I lead DevOps implementations and oversee the design, deployment, and maintenance of cloud services.*
 
 ## Top Skill-Set
 
